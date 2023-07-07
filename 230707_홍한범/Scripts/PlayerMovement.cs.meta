@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 744d7dd46f3ce83499d893d07d212657
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tirePrefab: {fileID: 3996304004181631362, guid: db6b1ca5aeaa0f1408e2ba95b0d11a77, type: 3}
+  - playerBody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

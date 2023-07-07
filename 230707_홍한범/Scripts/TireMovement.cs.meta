@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 940821be11befc14cbad11fef248916f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tireBody: {fileID: 2328276699547275401, guid: db6b1ca5aeaa0f1408e2ba95b0d11a77, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
